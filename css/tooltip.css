@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 .tooltip {
@@ -12,4 +13,20 @@
   font-size: .875rem;
   max-width: 170px;
   border-radius: 2px;
+=======
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
+.tooltip {
+  position: absolute;
+  z-index: 500;
+  background-color: rgba(0,0,0,.6);
+  box-shadow: 0 0 0 2px #FB5, 0 0 0  6px rgba(0,0,0,.6);
+  padding: .5rem;
+  color: #FFF;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: bold;
+  font-size: .875rem;
+  max-width: 170px;
+  border-radius: 2px;
+>>>>>>> 15aec5b5650b9a1bd9db5a2841f8f857686fdf7a
 }
