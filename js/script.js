@@ -13,4 +13,4 @@ initAccordion();
 initTabNav();
 controlModal();
 initDropDown();
-initTooltip()
+initTooltip();
