@@ -8,6 +8,7 @@ import initTooltip from './modules/tooltip.js';
 import initMenuMobile from './modules/menu-mobile.js';
 import initFuncionamento from './modules/funcionamento.js';
 import initFetcAnimais from './modules/fetch-animais.js';
+import initFetchBiticoin from './modules/fetch-biticoin.js';
 
 
 initScrollSuave();
@@ -20,3 +21,4 @@ initTooltip();
 initMenuMobile();
 initFuncionamento();
 initFetcAnimais();
+initFetchBiticoin();
